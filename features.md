@@ -24,13 +24,22 @@ The software license listed on the code repository.
 
 In which year was the first public release (not just a commit, but a release)
 
-## Demo
-
-Does the project provide a demo instance
-
 ## Freeness
 
 Is the project completely and forever 'Free', or does it have a subscription plan or support model
 
+## Framework
+
 ## Web App
 
+## Demo
+
+Does the project provide a demo instance
+
+## Database
+
+Table with functionality such as count, sum, etc...
+
+Sometimes called table view, grid, database
+
+![Database](/home/kusi/develop/awesome-knowledge-management-tools/assets/database.png)
