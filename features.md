@@ -42,4 +42,4 @@ Table with functionality such as count, sum, etc...
 
 Sometimes called table view, grid, database
 
-![Database](/home/kusi/develop/awesome-knowledge-management-tools/assets/database.png)
+![Database](assets/database.png)
