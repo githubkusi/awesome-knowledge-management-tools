@@ -43,3 +43,9 @@ Table with functionality such as count, sum, etc...
 Sometimes called table view, grid, database
 
 ![Database](assets/database.png)
+
+## View assigned tasks
+
+Show all tasks assigned to a particular user. [Example](https://confluence.atlassian.com/doc/add-assign-and-view-tasks-590260030.html) from Confluence
+
+![](assets/TaskProfileIncomplete.png)
