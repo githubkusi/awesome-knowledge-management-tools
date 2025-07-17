@@ -53,6 +53,14 @@ Is an instance accessible via browser
 
 # Features
 
+## Command key
+
+Key shortcut to open formatting options and features. Much easier than a keyboard shortcut for each individual feature
+
+![](assets/command-key.gif)
+
+
+
 ## Drag-n-Drop pages
 
 Can you move pages around in the page tree via drag and drop
@@ -74,4 +82,24 @@ Show all tasks assigned to a particular user. [Example](https://confluence.atlas
 # Embed 3rd party services
 
 Many of the services can also be included via an embed link which forwards you onto the 3rd party site. However, for content rendering on the page, a particular service must be explicitly supported
+
+# Administration
+
+# Authentication
+
+# User Management
+
+# Table Support
+
+## Images
+
+Can you paste an image in your clipboard to a 
+
+# Installation
+
+# Business model
+
+
+
+
 
