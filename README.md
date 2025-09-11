@@ -16,7 +16,9 @@ This project aims to compare available knowledge management tools with regards t
 * Business model
 * Personal comments
 
-```asdf
+Personal knowledge management tools (PKM) which do not support collaborative work (such as [Saner.AI](https://www.saner.ai) or [Reor](https://www.reorproject.org/)) are out of scope of this overview
+
+```
 ✅ = Feature exists in at least a limited fashion
 🚧 = Feature may exist but may not be practical or officially released
 🔌 = Feature provided as service hosted externally (might be non-free)
