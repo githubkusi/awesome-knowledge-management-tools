@@ -83,6 +83,10 @@ Show all tasks assigned to a particular user. [Example](https://confluence.atlas
 
 Many of the services can also be included via an embed link which forwards you onto the 3rd party site. However, for content rendering on the page, a particular service must be explicitly supported
 
+## Diagrams.net
+
+**draw.io** was the original name of the web-based diagramming software. In 2020, it was renamed to diagrams.net, but the original name draw.io is still used sometimes
+
 # Administration
 
 # Authentication
