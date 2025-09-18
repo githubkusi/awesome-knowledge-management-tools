@@ -24,6 +24,7 @@ Personal knowledge management tools (PKM) which do not support collaborative wor
 🔌 = Feature provided as service hosted externally (might be non-free)
 ❌ = Feature does not yet exist (hover over icon for possible Github issues)
 💰 = Feature with costs
+<no icon> = Not yet investigated
 ```
 
 ## Overview
