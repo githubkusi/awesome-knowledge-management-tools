@@ -87,6 +87,12 @@ Many of the services can also be included via an embed link which forwards you o
 
 **draw.io** was the original name of the web-based diagramming software. In 2020, it was renamed to diagrams.net, but the original name draw.io is still used sometimes
 
+# AI Features
+
+## MCP
+
+Model Context Protocol: Standard designed to let AI tools communicate with external data sources. [Here's](https://modelcontextprotocol.io/clients) a list of example clients that support MCP integrations
+
 # Administration
 
 # Authentication
