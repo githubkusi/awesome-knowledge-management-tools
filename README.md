@@ -123,13 +123,9 @@ Personal knowledge management tools (PKM) which do not support collaborative wor
 
 ## AI Features
 
-## 
-
-| Feature                | [AppFlowy](https://appflowy.com/) | [AFFiNE](https://affine.pro/)                               | [Outline](https://www.getoutline.com/) | [Docmost](https://prosemirror.net/) | [SiYuan](https://b3log.org/siyuan/en/) | [Logseq](https://logseq.com/) | [BookStack](https://www.bookstackapp.com/) | [Trilium](https://github.com/TriliumNext/Trilium) | [La Suite Docs](https://github.com/suitenumerique/docs) |
-| ---------------------- | --------------------------------- | ----------------------------------------------------------- | -------------------------------------- | ----------------------------------- | -------------------------------------- | ----------------------------- | ------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------- |
-| [MCP](features.md#MCP) |                                   | [✅](https://github.com/toeverything/AFFiNE/releases?page=2) |                                        |                                     |                                        |                               |                                            |                                                   |                                                         |
-
-## 
+| Feature                | [AppFlowy](https://appflowy.com/)                        | [AFFiNE](https://affine.pro/)                               | [Outline](https://www.getoutline.com/)                       | [Docmost](https://prosemirror.net/)                          | [SiYuan](https://b3log.org/siyuan/en/) | [Logseq](https://logseq.com/) | [BookStack](https://www.bookstackapp.com/) | [Trilium](https://github.com/TriliumNext/Trilium) | [La Suite Docs](https://github.com/suitenumerique/docs) |
+| ---------------------- | -------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------- | ----------------------------- | ------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------- |
+| [MCP](features.md#MCP) | [❌](https://github.com/AppFlowy-IO/AppFlowy/issues/8043) | [✅](https://github.com/toeverything/AFFiNE/releases?page=2) | [❌](https://github.com/outline/outline/discussions/9339)[🔌](https://github.com/mmmeff/outline-mcp-server) | [❌](https://github.com/docmost/docmost/issues/1468) [🔌](https://github.com/fbeawels/docmost-mcp)[🔌](https://github.com/HaruHunab1320/docmost-mcp) |                                        |                               |                                            |                                                   | [❌](https://github.com/suitenumerique/docs/issues/1183) |
 
 ## Administration
 
