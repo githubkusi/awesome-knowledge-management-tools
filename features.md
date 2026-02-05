@@ -101,6 +101,12 @@ Many of the services can also be included via an embed link which forwards you o
 
 Model Context Protocol: Standard designed to let AI tools communicate with external data sources. [Here's](https://modelcontextprotocol.io/clients) a list of example clients that support MCP integrations
 
+# Mobile App
+
+## Offline
+
+If the mobile app doesn't have Internet connection, the app is still usable. New pages can be still added and existing pages can be read and edited
+
 # Administration
 
 # Authentication
