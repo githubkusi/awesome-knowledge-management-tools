@@ -134,6 +134,14 @@ Personal knowledge management tools (PKM) which do not support collaborative wor
 | ------- | --------------------------------- | ----------------------------------------------------------- | -------------------------------------- | ----------------------------------- | -------------------------------------- | ----------------------------- | ------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------- |
 | [Offline](features.md#Offline) |                                   | [✅](https://github.com/toeverything/AFFiNE/releases?page=2) |                                        |                                     |                                        |                               |                                            |                                                   |                                                         |
 
+## Desktop App
+
+| Feature                        | [AppFlowy](https://appflowy.com/) | [AFFiNE](https://affine.pro/)                               | [Outline](https://www.getoutline.com/) | [Docmost](https://prosemirror.net/) | [SiYuan](https://b3log.org/siyuan/en/) | [Logseq](https://logseq.com/) | [BookStack](https://www.bookstackapp.com/) | [Trilium](https://github.com/TriliumNext/Trilium) | [La Suite Docs](https://github.com/suitenumerique/docs) |
+| ------------------------------ | --------------------------------- | ----------------------------------------------------------- | -------------------------------------- | ----------------------------------- | -------------------------------------- | ----------------------------- | ------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------- |
+| [Offline](features.md#Offline) |                                   | [✅](https://github.com/toeverything/AFFiNE/releases?page=2) |                                        |                                     |                                        |                               |                                            |                                                   |                                                         |
+
+
+
 ## Administration
 
 | Feature   | [AppFlowy](https://appflowy.com/)                        | [AFFiNE](https://affine.pro/)                                | [Outline](https://www.getoutline.com/) | [Docmost](https://prosemirror.net/)                          | [SiYuan](https://b3log.org/siyuan/en/)    | [Logseq](https://logseq.com/) | [BookStack](https://www.bookstackapp.com/) | [Trilium](https://github.com/TriliumNext/Trilium) | [La Suite Docs](https://github.com/suitenumerique/docs) |
