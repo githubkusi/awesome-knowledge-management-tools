@@ -87,6 +87,10 @@ Allows to @-mention such that the mentioned team member gets notified via email
 
 Allows to @-mention a group such that all members of the group get notified via email
 
+## Backlinks
+
+Show incoming (referenced by other page) and outgoing (reference to other page) links
+
 # Embed 3rd party services
 
 Many of the services can also be included via an embed link which forwards you onto the 3rd party site. However, for content rendering on the page, a particular service must be explicitly supported
