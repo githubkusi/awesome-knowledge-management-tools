@@ -51,6 +51,12 @@ Does the project provide a demo instance
 
 Is an instance accessible via browser
 
+## PWA
+
+[Progressive web app](https://en.wikipedia.org/wiki/Progressive_web_app). Looks like a standalone app but essentially runs in your already existing browser. In contrast to Electron, a PWA app doesn't use much additional memory and is almost instant to start.
+
+![Chrome and Edge on desktop with the install badge in the URL bar](https://web.dev/static/learn/pwa/installation/image/chrome-edge-desktop-th-e88db78e0ba4d.png)
+
 # Features
 
 ## Command key
@@ -89,7 +95,7 @@ Allows to @-mention a group such that all members of the group get notified via 
 
 ## Backlinks
 
-Show incoming (referenced by other page) and outgoing (reference to other page) links
+Show incoming (referenced by other page) and outgoing (reference to o) links
 
 # Embed 3rd party services
 
