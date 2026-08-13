@@ -119,6 +119,10 @@ Ask a question (e.g. "list all tasks", "summarize this page")
 
 Generate or edit content with AI
 
+## BYOK
+
+Bring Your Own Key: Connect you own AI provider account, such as OpenAI or Anthropic, instead of paying the app for bundled model usage.
+
 # Mobile App
 
 ## Offline
