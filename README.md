@@ -182,6 +182,12 @@ Personal knowledge management tools (PKM) which do not support collaborative wor
 | Passwordless sharing  | ✅ (identification via email)      | ✅ (identification via email)  | ✅ (identification via email)           | ❌                                             |                                        |                               | ❌                                          |                                                         |
 | Multi-user            | ✅                                 | ✅                             | ✅                                      | ✅                                             | 🚧(sharing?)                            | ❌                             | ✅                                          | [❌](https://github.com/TriliumNext/Trilium/issues/4956) |
 
+## Import
+
+| Feature                        | [AppFlowy](https://appflowy.com/) | [AFFiNE](https://affine.pro/) | [Outline](https://www.getoutline.com/) | [Docmost](https://prosemirror.net/) | [SiYuan](https://b3log.org/siyuan/en/) | [Logseq](https://logseq.com/) | [BookStack](https://www.bookstackapp.com/) | [Trilium](https://github.com/TriliumNext/Trilium) | [La Suite Docs](https://github.com/suitenumerique/docs) |
+| ------------------------------ | --------------------------------- | ----------------------------- | -------------------------------------- | ----------------------------------- | -------------------------------------- | ----------------------------- | ------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------- |
+| [Offline](features.md#Offline) |                                   |                               |                                        |                                     |                                        |                               |                                            |                                                   |                                                         |
+
 ## Table Support
 
 | Feature                      | [AppFlowy](https://appflowy.com/) | [AFFiNE](https://affine.pro/)                            | [Outline](https://www.getoutline.com/)             | [Docmost](https://prosemirror.net/)                | [SiYuan](https://b3log.org/siyuan/en/) | [Logseq](https://logseq.com/) | [BookStack](https://www.bookstackapp.com/) | [Trilium](https://github.com/TriliumNext/Trilium) | [La Suite Docs](https://github.com/suitenumerique/docs) |

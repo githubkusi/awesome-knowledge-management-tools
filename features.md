@@ -123,23 +123,33 @@ Generate or edit content with AI
 
 Bring Your Own Key: Connect you own AI provider account, such as OpenAI or Anthropic, instead of paying the app for bundled model usage.
 
+# Table Support
+
+## Images
+
+Can you paste an image from your clipboard to a cell
+
+# Administration
+
+## Import
+
+### Open Knowledge Format
+
+Spec for representing knowledge as markdown files (optimized for AI), created by Google in 2026
+
+- https://okf.md
+- https://en.wikipedia.org/wiki/Draft:Open_Knowledge_Format
+- https://github.com/fabricioctelles/skills
+
 # Mobile App
 
 ## Offline
 
 If the mobile app doesn't have Internet connection, the app is still usable. New pages can be still added and existing pages can be read and edited
 
-# Administration
-
 # Authentication
 
 # User Management
-
-# Table Support
-
-## Images
-
-Can you paste an image in your clipboard to a 
 
 # Installation
 
@@ -149,3 +159,4 @@ Can you paste an image in your clipboard to a
 
 
 
+d
